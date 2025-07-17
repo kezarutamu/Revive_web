@@ -1,0 +1,114 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('YOUR_BACKGROUND_IMAGE_URL_HERE');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 20px;
+    color: #4a4a4a;
+}
+
+.flyer {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(99, 107, 63, 0.859);
+    max-width: 600px;
+    margin: auto;
+}
+
+.profile {
+    margin: 30px 0;
+    border-radius: 70%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.profile img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: #5f554c;  /* A soft coral color */
+}
+
+.link {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #151806;  /* A soft coral color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.host {
+    font-family: 'Montserrat', sans-serif; /* Modern bold font */
+    font-weight: 700; /* Bold weight */
+    
+    font-size: 1.5em; /* Adjust size as needed */
+    margin-top: 10px; /* Space above the host text */
+}
+
+.link {
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.bring-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #151806; /* A soft pink color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bring-items {
+    margin-top: 20px;
+}
+
+.item {
+    margin: 10px;
+    display: inline-block;
+}
+
+.item img {
+    width: 80px; /* Adjust the size as necessary */
+    height: auto;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: hsl(88, 22%, 28%); /* Soft pink background color */
+    text-align: center;
+    padding: 20px;
+    color: #4a4a4a;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif; /* Professional aesthetic font */
+    font-weight: 700; /* Bold weight */
+    font-size: 2.5em; /* Adjust size as needed */
+    margin: 20px 0; /* Space around the heading */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Subtle text shadow for depth */
+}
+.highlight {
+    background-color: #fff53b96; /* Bright yellow highlight */
+    font-weight: bold; /* Bold text */
+    padding: 0 5px; /* Some padding around the text */
+    border-radius: 3px; /* Rounded corners */
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f554c;
+    border-radius: 10%;
+}
